@@ -1,0 +1,37 @@
+.navbar {
+    background: white;
+    border-bottom: 1px solid black;
+    min-height: 70px;
+    position: fixed;
+    width: 97%;
+    color: #ff0000;
+    font-size: 23px;
+    z-index: 99;
+    white-space: nowrap
+  }
+  
+  .navbar ul {
+    margin: 0;
+    padding: 0
+  }
+  
+  .navbar li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 33.3%;
+    text-align: center
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 900
+  }
+  
+  .score {
+    margin: 0 2.5%;
+  }
+  
+  .scoreSplit {
+    color: #561786;
+  }
